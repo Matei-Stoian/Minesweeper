@@ -28,11 +28,7 @@ export default {
             })));
             this.placeMines();
             this.countDistance();
-            for (let i = 0; i < this.gridsize; i++) {
-                for (let j = 0; j < this.gridsize; j++) {
-                    console.log(this.grid[i][j]);
-                }
-            }
+            
         },
         placeMines() {
             let cnt = 0;

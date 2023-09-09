@@ -1,6 +1,6 @@
 # Minesweeper
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a simple implementation of the Minesweeper game using Vue.
 
 ## Recommended IDE Setup
 
